@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "CedevitaMC.aternos.me:38624,
+    "port": 38624,
     "version": "",
     "try-creative": false
   },

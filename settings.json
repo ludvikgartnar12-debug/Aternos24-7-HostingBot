@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CedevitaMCprivate.aternos.me:38624,
+    "ip": "CedevitaMCprivate.aternos.me:38624"
     "port": 38624,
     "version": "",
     "try-creative": false
